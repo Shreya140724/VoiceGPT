@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+voicegpt/
+*.env
+
+# Whisper / Model cache
+*.pt
+*.bin
+.cache/
+
+# Gradio temp
+gradio_cached_examples/
+gradio_temp/
+
+# Audio files
+*.wav
+*.mp3
+
+# Conversation data
+data/
+
+# Ollama cache
+.ollama/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

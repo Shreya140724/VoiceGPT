@@ -1,0 +1,11 @@
+gradio>=4.0.0
+openai-whisper
+torch
+numpy
+ollama
+edge-tts
+sounddevice
+pydub
+ffmpeg-python
+scipy
+requests
