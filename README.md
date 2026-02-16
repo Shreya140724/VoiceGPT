@@ -43,6 +43,12 @@ This project lets you speak to your computer and get spoken AI replies — compl
 
 ---
 
+## 📸 Demo Screenshots
+
+### Chat Interface
+![Chat UI](UI.jpg)
+
+
 ## 📁 Project Structure
 
 VoiceGPT/
