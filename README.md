@@ -43,7 +43,7 @@ This project lets you speak to your computer and get spoken AI replies — compl
 
 ---
 
-## 📸 Demo Screenshots
+## 📸 Demo Screenshot
 
 ### Chat Interface
 ![Chat UI](UI.jpg)
