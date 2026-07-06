@@ -51,8 +51,7 @@ This project lets you speak to your computer and get spoken AI replies — compl
 
 ## 📁 Project Structure
 
-VoiceGPT
-│
+VoiceGPT \
 ├── app.py                # Main Gradio app  
 ├── llm.py                # Mistral + Hinglish logic  
 ├── whisper_stt.py        # Whisper transcription  
